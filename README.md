@@ -1,4 +1,4 @@
-# how-we-audit
+# How We Audit
 
 1. Defence Module offers smart contract security audits to help companies ensure the safety and security of their blockchain-based applications.
 
